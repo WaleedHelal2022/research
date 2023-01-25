@@ -1,4 +1,4 @@
-# research
+# Software research with Python Code Examples
 Research Repository
 Python Code Examples
 This repository contains several examples of Python code, including:
