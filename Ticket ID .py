@@ -1,3 +1,4 @@
+# Description: This program generates a random ticket number
 import random
 chars = "1234567890"
 
